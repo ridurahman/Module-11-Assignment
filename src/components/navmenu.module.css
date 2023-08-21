@@ -1,0 +1,13 @@
+.activeLink {
+  color: black;
+  background-color: aliceblue;
+  margin: 4px;
+  padding: 8px;
+}
+
+.pendingLink {
+  color: aliceblue;
+  background-color: black;
+  margin: 4px;
+  padding: 8px;
+}
